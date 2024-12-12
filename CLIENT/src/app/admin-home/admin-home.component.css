@@ -1,0 +1,15 @@
+table{
+    background-color: bisque;
+    padding: 10px;
+    
+}
+.main{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+
+    .btn{
+        margin-left: 20px;
+    }
+}
